@@ -1,6 +1,6 @@
 I do not yet have much stuff here, but be sure to check out these cool places:
 
-## Tcl/tk
+## Tcl/Tk
 - [Tcl/Tk](https://www.tcl-lang.org) and its [mirror](https://github.com/tcltk/tcl) here in GitHub
 - A lot of packages for Tcl can be found on the page of the ["Github Tcl organization"](https://github.com/tcltk)
 - [fossil SCM](https://fossil-scm.org) and its [mirror](https://github.com/drhsqlite/fossil-mirror) here on GitHub
