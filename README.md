@@ -9,5 +9,5 @@ I do not yet have much stuff here, but be sure to check out these cool places:
 - [CommonMark](https://github.com/commonmark) is the place to start when you want to work with any markdown project
 - [SubEthaEdit](https://github.com/subethaedit) is a nice and light-weight macOS editor also supporting markdown including a preview feature that is highly customizable. It uses the [showdown](https://github.com/showdownjs/showdown) parser written in Javascript
 
-## My Gists on Github
+## My gists on Github
 - see [here](https://gist.github.com/torstenberg)
